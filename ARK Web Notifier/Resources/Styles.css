@@ -1,0 +1,224 @@
+﻿*{
+    font-family:Candara, Arial, Helvetica, sans-serif;
+    color:#fff;
+}
+body {
+    padding:0;
+    margin:0;
+    background:url(Images/bg_dark.jpg) repeat;
+}
+
+a{
+    color:#91ce1a;
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+table{
+    width:500px;
+}
+
+#btnLogout,#LoginLink{
+    position:absolute;
+    bottom:10px;
+    right:10px;
+    text-align:center;
+}
+
+#LoginLink:hover{
+    text-decoration:none;
+}
+
+#PageContainer{
+    width:698px;
+    margin:30px auto 30px auto;
+    border:1px solid #444;
+    border-radius:8px;
+    box-shadow:0 0 8px -2px #000;
+    background-color:#555;
+}
+
+#PageHeader{
+    position:relative;
+    border-radius:8px 8px 0 0;
+    height:120px;
+    width:100%;
+    background:url(Images/Header_bg.png) no-repeat top left;
+}
+
+#ARKLogo{
+    height:120px;
+    display:inline-block;
+    vertical-align:top;
+}
+
+#PageHeader h1{
+    display:inline-block;
+    vertical-align:top;
+    padding:0 0 0 10px;
+    margin:0;
+    height:120px;
+    font-size:36px;
+    line-height:120px;
+    text-shadow:0 0 8px #000; /*b213f4*/
+    color:#ddd;
+}
+
+#MainPage{
+    padding:10px;
+    width:678px;
+}
+
+input[type=submit], [type=button],#LoginLink {
+    cursor: pointer;
+    min-width: 85px;
+    height: 28px;
+    line-height: 28px;
+    font-size: 15px;
+    padding: 0 6px 0 6px;
+    margin: 5px;
+    font-weight: normal;
+    color: #fff;
+    background-color: #444;
+    background: linear-gradient(#4c4c4c,#3c3c3c);
+    border-radius: 2px;
+    border: 1px solid #222;
+    outline: none;
+    box-shadow:0 0 5px -2px #000;
+}
+
+input[type=submit]:hover:not(:disabled), [type=button]:hover:not(:disabled),#LoginLink:hover {
+        background-color: #555;
+        border: 1px solid #333;
+        background: linear-gradient(#5c5c5c,#4c4c4c);
+    }
+
+    input[type=submit]:active:not(:disabled), [type=button]:active:not(:disabled),#LoginLink:active {
+        background-color: #333;
+        border: 1px solid #111;
+        background: linear-gradient(#3c3c3c,#2c2c2c);
+    }
+
+input[type=text], [type=password]{
+    margin: 5px;
+    padding: 0 4px 0 4px;
+    height: 26px;
+    line-height: 26px;
+    font-size: 14px;
+    border-width: 1px 1px 1px 1px;
+    border-color: #222;
+    border-style: solid;
+    outline: none;
+    box-shadow: -0px 0 5px -1px #222;
+    border-radius: 2px;
+    background-color: #444;
+    color: #fff;
+}
+
+input[type=checkbox] {
+    width: 0;
+    height: 0;
+    margin: 0;
+    display: none;
+}
+
+    input[type=checkbox]:not(:checked) + label, input[type=checkbox]:checked + label {
+        position: relative;
+        cursor: pointer;
+        padding-left: 24px;
+        color: #fff;
+    }
+
+    input[type=checkbox]:not(:checked):disabled + label, input[type=checkbox]:checked:disabled + label {
+        cursor: not-allowed;
+        color: #999;
+    }
+
+    input[type=checkbox]:not(:checked) + label:before, input[type=checkbox]:checked + label:before {
+        content: '';
+        position: absolute;
+        width: 16px;
+        left: 0;
+        height: 16px;
+        line-height: 28px;
+        border: 1px solid #111;
+        border-radius: 2px;
+        background: linear-gradient(#666,#444);
+        box-shadow: -0px 0px 5px -1px #111;
+    }
+
+    input[type=checkbox]:not(:checked):disabled + label:before, input[type=checkbox]:checked:disabled + label:before {
+        border: 1px solid #393939;
+        box-shadow: -0px 0px 5px -1px #393939;
+    }
+
+    input[type=checkbox]:not(:checked) + label:after, input[type=checkbox]:checked + label:after {
+        content: 'X'; /*✓*/
+        position: absolute;
+        top: 1px;
+        left: 1px;
+        text-align: center;
+        width: 16px;
+        height: 16px;
+        line-height: 16px;
+        font-size: 14px;
+        color: #9999ff;
+        font-weight: bold;
+        text-shadow: 0 0 1px #9999ff;
+    }
+
+    input[type=checkbox]:not(:checked):disabled + label:after, input[type=checkbox]:checked:disabled + label:after {
+        color: #393939;
+        text-shadow: 0 0 1px #393939;
+        cursor: not-allowed;
+    }
+
+    input[type=checkbox]:not(:checked) + label:after {
+        opacity: 0;
+    }
+
+    .NotificationHeader{
+        background-color: #444;
+    background: linear-gradient(#4c4c4c,#3c3c3c);
+    border-radius: 2px;
+    border-width:0 0 1px 0;
+    border-color:#222;
+    border-style:solid;
+        padding:0 8px 0 8px;
+        width:660px;
+        height:24px;
+        line-height:24px;
+    }
+
+    .NotificationHeader span{
+        height:24px;
+        line-height:24px;
+        float:right;
+        color:#91ce1a;
+    }
+
+    .NotificationContainer{
+        width:676px;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top:16px;margin-bottom:16px;
+        border:1px solid #222;
+        border-radius: 2px;
+        box-shadow:0 0 5px -2px #000;
+    }
+
+    .NotificationBody{
+        padding:10px;
+    }
+
+    .NotificationBody table{
+        width:100%;
+    }
+
+    .NotificationBody table tr td:nth-child(1){
+        color:#91ce1a;
+        width:80px;
+    }

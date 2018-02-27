@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ARKWebNotifier.Site" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>ARK Web Notifier</title>
+    <link rel="stylesheet" href="Resources/Styles.css" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="PageContainer">
+            <div id="PageHeader">
+                <a href="Default.aspx"><img id="ARKLogo" src="Resources/Images/ARK_Logo.png" /><!--
+                --><h1>Web Notifier</h1></a>
+                <%if (sessionHandler.IsLoggedIn){ %>
+                <asp:Button runat="server" ID="btnLogout" Text="Log out" OnClick="btnLogout_Click" />
+                <%}else { %>
+                <a id="LoginLink" href="Login.aspx">Log in</a>
+                <%} %>
+            </div>
+            <div id="MainPage">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

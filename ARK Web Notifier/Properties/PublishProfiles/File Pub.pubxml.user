@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\Published</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ARK Web Notifier.dll">
+      <publishTime>02/27/2018 13:13:53</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.Core.dll">
+      <publishTime>11/25/2013 10:32:18</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.Core.UI.dll">
+      <publishTime>11/25/2013 10:32:20</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.InfoCard.dll">
+      <publishTime>11/25/2013 10:32:20</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.InfoCard.UI.dll">
+      <publishTime>11/25/2013 10:32:20</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Common.dll">
+      <publishTime>11/25/2013 10:32:22</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Consumer.dll">
+      <publishTime>11/25/2013 10:32:22</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.dll">
+      <publishTime>11/25/2013 10:32:22</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.ServiceProvider.dll">
+      <publishTime>11/25/2013 10:32:24</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth2.AuthorizationServer.dll">
+      <publishTime>11/25/2013 10:32:24</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth2.Client.dll">
+      <publishTime>11/25/2013 10:32:24</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth2.Client.UI.dll">
+      <publishTime>11/25/2013 10:32:24</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth2.ClientAuthorization.dll">
+      <publishTime>11/25/2013 10:32:26</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth2.dll">
+      <publishTime>11/25/2013 10:32:26</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth2.ResourceServer.dll">
+      <publishTime>11/25/2013 10:32:26</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.dll">
+      <publishTime>11/25/2013 10:32:26</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.Provider.dll">
+      <publishTime>11/25/2013 10:32:28</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.Provider.UI.dll">
+      <publishTime>11/25/2013 10:32:28</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.dll">
+      <publishTime>11/25/2013 10:32:30</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.UI.dll">
+      <publishTime>11/25/2013 10:32:30</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.UI.dll">
+      <publishTime>11/25/2013 10:32:30</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenIdInfoCard.UI.dll">
+      <publishTime>11/25/2013 10:32:32</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenIdOAuth.dll">
+      <publishTime>11/25/2013 10:32:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/10/2016 14:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/09/2016 12:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/09/2016 11:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/Mono.Math.dll">
+      <publishTime>11/25/2013 10:32:26</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>01/25/2018 09:33:06</publishTime>
+    </File>
+    <File Include="bin/Org.Mentalis.Security.Cryptography.dll">
+      <publishTime>11/25/2013 10:32:26</publishTime>
+    </File>
+    <File Include="bin/Resources/Images/ARK_Logo.png">
+      <publishTime>02/21/2018 16:43:49</publishTime>
+    </File>
+    <File Include="bin/Resources/Images/bg_dark.jpg">
+      <publishTime>11/01/2017 08:49:06</publishTime>
+    </File>
+    <File Include="bin/Resources/Images/Header_bg.png">
+      <publishTime>02/21/2018 16:55:35</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>05/31/2012 13:59:20</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.WebRequest.dll">
+      <publishTime>05/31/2012 13:59:20</publishTime>
+    </File>
+    <File Include="CompleteRegistration.aspx">
+      <publishTime>02/22/2018 12:44:41</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/27/2018 13:02:22</publishTime>
+    </File>
+    <File Include="EmailNotVerified.aspx">
+      <publishTime>02/27/2018 10:54:27</publishTime>
+    </File>
+    <File Include="ForgotPwd.aspx">
+      <publishTime>02/22/2018 12:55:54</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>02/22/2018 15:46:32</publishTime>
+    </File>
+    <File Include="NotificationControl.ascx">
+      <publishTime>02/27/2018 12:33:36</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/21/2018 12:43:38</publishTime>
+    </File>
+    <File Include="Register.aspx">
+      <publishTime>02/22/2018 12:55:42</publishTime>
+    </File>
+    <File Include="ResetPassword.aspx">
+      <publishTime>02/22/2018 14:28:55</publishTime>
+    </File>
+    <File Include="Resources/Images/ARK_Logo.png">
+      <publishTime>02/21/2018 16:43:49</publishTime>
+    </File>
+    <File Include="Resources/Images/bg_dark.jpg">
+      <publishTime>11/01/2017 08:49:06</publishTime>
+    </File>
+    <File Include="Resources/Images/Header_bg.png">
+      <publishTime>02/21/2018 16:55:35</publishTime>
+    </File>
+    <File Include="Resources/Styles.css">
+      <publishTime>02/27/2018 12:51:11</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>02/22/2018 12:59:08</publishTime>
+    </File>
+    <File Include="SteamID.aspx">
+      <publishTime>02/27/2018 11:00:59</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/27/2018 13:13:54</publishTime>
+    </File>
+    <File Include="web_notif.aspx">
+      <publishTime>02/20/2018 15:58:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

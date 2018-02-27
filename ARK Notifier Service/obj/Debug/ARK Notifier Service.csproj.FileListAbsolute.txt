@@ -1,0 +1,11 @@
+C:\Alt_Dev\Git\ark-web-notifier\ARK Notifier Service\bin\Debug\EmailBodies\ForgotPwd.html
+C:\Alt_Dev\Git\ark-web-notifier\ARK Notifier Service\bin\Debug\EmailBodies\Registration.html
+C:\Alt_Dev\Git\ark-web-notifier\ARK Notifier Service\bin\Debug\EmailBodies\Notification.html
+C:\Alt_Dev\Git\ark-web-notifier\ARK Notifier Service\bin\Debug\ARK Notifier Service.exe.config
+C:\Alt_Dev\Git\ark-web-notifier\ARK Notifier Service\bin\Debug\ARK Notifier Service.exe
+C:\Alt_Dev\Git\ark-web-notifier\ARK Notifier Service\bin\Debug\ARK Notifier Service.pdb
+C:\Alt_Dev\Git\ark-web-notifier\ARK Notifier Service\bin\Debug\MySql.Data.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Notifier Service\obj\Debug\ARKNotifierService.DebugForm.resources
+C:\Alt_Dev\Git\ark-web-notifier\ARK Notifier Service\obj\Debug\ARK Notifier Service.csproj.GenerateResource.Cache
+C:\Alt_Dev\Git\ark-web-notifier\ARK Notifier Service\obj\Debug\ARK Notifier Service.exe
+C:\Alt_Dev\Git\ark-web-notifier\ARK Notifier Service\obj\Debug\ARK Notifier Service.pdb

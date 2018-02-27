@@ -1,0 +1,120 @@
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\roslyn\csc.exe
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\roslyn\System.Collections.Immutable.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\roslyn\System.Reflection.Metadata.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\roslyn\vbc.exe
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\roslyn\VBCSCompiler.exe
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\roslyn\VBCSCompiler.exe.config
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\ARK Web Notifier.dll.config
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\ARK Web Notifier.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\ARK Web Notifier.pdb
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.AI.DependencyCollector.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.AI.Web.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.AI.WindowsServer.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.ApplicationInsights.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.AI.DependencyCollector.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.AI.Web.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.AI.WindowsServer.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.ApplicationInsights.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\obj\Debug\ARK Web Notifier.csprojResolveAssemblyReference.cache
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\obj\Debug\ARK Web Notifier.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\ARK Web Notifier\obj\Debug\ARK Web Notifier.pdb
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\roslyn\csc.exe
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\roslyn\System.Collections.Immutable.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\roslyn\System.Reflection.Metadata.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\roslyn\vbc.exe
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\roslyn\VBCSCompiler.exe
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\roslyn\VBCSCompiler.exe.config
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\ARK Web Notifier.dll.config
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\ARK Web Notifier.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\ARK Web Notifier.pdb
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.AI.DependencyCollector.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.AI.Web.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.AI.WindowsServer.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.ApplicationInsights.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\MySql.Data.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.AI.DependencyCollector.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.AI.Web.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.AI.WindowsServer.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.ApplicationInsights.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\obj\Debug\ARK Web Notifier.csprojResolveAssemblyReference.cache
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\obj\Debug\ARK Web Notifier.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\obj\Debug\ARK Web Notifier.pdb
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.Core.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.Core.UI.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.InfoCard.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.InfoCard.UI.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth.Common.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth2.Client.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth2.Client.UI.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth2.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenId.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenId.Provider.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenId.Provider.UI.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenId.UI.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenIdOAuth.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\System.Net.Http.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\System.Net.Http.WebRequest.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Mono.Math.dll
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.Core.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.Core.UI.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.InfoCard.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.InfoCard.UI.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth.Common.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth2.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth2.Client.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth2.Client.UI.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenId.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenId.Provider.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenId.Provider.UI.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenId.UI.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\DotNetOpenAuth.OpenIdOAuth.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\System.Net.Http.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\System.Net.Http.WebRequest.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Mono.Math.xml
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Resources\Images\ARK_Logo.png
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Resources\Images\Header_bg.png
+C:\Alt_Dev\Git\ark-web-notifier\ARK Web Notifier\bin\Resources\Images\bg_dark.jpg
