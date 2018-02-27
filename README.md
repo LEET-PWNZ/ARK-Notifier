@@ -39,8 +39,8 @@ This entire system is extremely minimalistic and small, so anyone should be able
 
 For users to make use of this system, they will need to register on the application first.  
 Once registered, the application will send an email to the address provided by the user, and the user will need to follow the link in this email to verify their accounts.  
-Once a user has verified their account, the application will request that they link their Steam ID by logging in via the Steam website.
-Once the Steam ID has been linked to their accounts, they will be able to view any notifications that were pushed out for that Steam ID.
-Note that for tribes, a notification will be pushed out for the Steam ID of every tribe member.
-A working (But modified) instance of this application can be found here: http://leetpwnz.elitedigital.co.za/ark-notifier/
-Naturally, this instance of the application will only work for people that play on the LEET PWNZ servers (http://leetpwnz.elitedigital.co.za)
+Once a user has verified their account, the application will request that they link their Steam ID by logging in via the Steam website.  
+Once the Steam ID has been linked to their accounts, they will be able to view any notifications that were pushed out for that Steam ID.  
+Note that for tribes, a notification will be pushed out for the Steam ID of every tribe member.  
+A working (But modified) instance of this application can be found here: http://leetpwnz.elitedigital.co.za/ark-notifier/  
+Naturally, this instance of the application will only work for people that play on the LEET PWNZ servers (http://leetpwnz.elitedigital.co.za)  
